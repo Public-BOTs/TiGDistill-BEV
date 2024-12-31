@@ -1,5 +1,6 @@
 
 # TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation
+### [Paper](https://arxiv.org/abs/2412.20911)
 
 Official implementation of "TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation".
 
